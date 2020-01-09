@@ -34,7 +34,7 @@ class Book
   
   def turn_page
     page = 1 
-    turn_page = page += 1
+    puts 
   end
 
 end
